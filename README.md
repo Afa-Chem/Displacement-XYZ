@@ -6,4 +6,5 @@ python3 Dxyz.py
 
 # Requirements
 - Python 3
-- Two files of atomic coordinates with XYZ extension
+- Numpy
+- Provide two files containing atomic coordinates in XYZ format for a given structure.
